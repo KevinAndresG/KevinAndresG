@@ -1,31 +1,28 @@
 <div align='center'>
-<h1> Hello Every Body < My name is Kevin Andres Garcia| > <img src = "https://i.pinimg.com/originals/78/dc/66/78dc664ddcd9d8bf1160fd44b235bcbb.gif" width = 50px></h1>
+<h1> Hello Every Body < My name is Kevin Garcia| > <img src = "https://monophy.com/media/QTfX9Ejfra3ZmNxh6B/monophy.gif" width = 100px></h1>
   <h2> Software Engineer Student at Holberton School </h2>
   </div>
 <p align='center'>
 </p>
-<div size='30px' align='center'> Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
-<div align='center'>
-  <img src = "https://www.gifsde.com/uploads/6c8e39_09_animation.gif" width = 100px>
-
+<div size='30px' align='center'> 🔵 You has been arrived to my profile you going to enjoy it 🔵 </div>
+<div>
+  <p>
+    
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=KevinAndresG.KevinAndresG&left_color=black&right_color=Darkcyan)
   
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=LauSCaicedo.LauSCaicedo&left_color=Black&right_color=Indigo)
-  
+  </p>
 </div>
 
 <h2> About Me </h2>
+<img width="350" height="195" align="right" alt="Github" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/e9d40d26810225.5635acac91f14.gif" />
+  
+-🔹 I’m currently stundyong at Holberton.
+  
+-🔹 I’m currently learning about Software programming.  
 
-<img width="55%" align="right" alt="Github" src=https://www.enter.co/wp-content/uploads/2021/01/Becas-Holberton.png />
+-🔹 I’m looking to collaborate on Projects,Tech Articles. 
 
-
-- 🔭 I’m currently working on Holberton software projects.
-
-- 🌱 I’m currently learning Software programming foundations.  
-
-- 👯 I’m looking to collaborate on Projects,Tech Articles. 
-
-- 💬 Talk to me about C, Open Source, or any knowledge you want to share with me. 
+-🔹 Talk to me about C, Open Source, or any knowledge you want to share with me. 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/LauSCaicedo?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
@@ -42,18 +39,13 @@
  <h2> My GitHub Stats </h2>
  <h3 align="center">
 
-   
-   ![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=LauSCaicedo&show_icons=true&title_color=fff&icon_color=7000CD&text_color=48AAD8&bg_color=151515)
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinAndresG&show_icons=true&theme=blue-green&icon_color=fff&title_color=000000&border_color=fff&bg_color=DEG,003EFF,0067FF,008DFF,00AFFF&text_color=000000)
 </h3>
 
 <h3 align="center">
 
    
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LauSCaicedo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinAndresG&show_icons=true&title_color=008b8b&icon_color=008b8b&text_color=008b8b&bg_color=151515)
 
 </h3> 
 
