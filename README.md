@@ -1,10 +1,11 @@
 <div align='center'>
-<h1> Hello Every Body < My name is Kevin Garcia| > <img src = "https://monophy.com/media/QTfX9Ejfra3ZmNxh6B/monophy.gif" width = 100px></h1>
+<h1 align='center'> Hi Every Body < My name is Kevin Garcia| > </h1>
   <h2> Software Engineer Student at Holberton School </h2>
   </div>
 <p align='center'>
 </p>
 <div size='30px' align='center'> 🔵 You has been arrived to my profile you going to enjoy it 🔵 </div>
+  <h1 align='center'> <img src = "https://media3.giphy.com/media/4wQq4Une7h7nOVuaS1/giphy.gif" width = 200px> </h1>
 <div>
   <p>
     
@@ -14,7 +15,6 @@
 </div>
 
 <h2> About Me </h2>
-<img width="350" height="195" align="right" alt="Github" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/e9d40d26810225.5635acac91f14.gif" />
   
 -🔹 I’m currently stundyong at Holberton.
   
