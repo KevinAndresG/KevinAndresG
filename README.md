@@ -25,9 +25,9 @@
 -🔹 Talk to me about C, Open Source, or any knowledge you want to share with me. 
 
 <h2> My Skills And Knowledges <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/KevinAndresG?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/KevinAndresG/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<a href= https://github.com/KevinAndresG?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/KevinAndresG/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/KevinAndresG?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/KevinAndresG/githubAboutMeGenerator/main/icons/css.svg'> </a>
+<a href= https://github.com/KevinAndresG?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
+<a href= https://github.com/KevinAndresG?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href= https://github.com/KevinAndresG?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 
 <h2> Contact me... <img src='https://cafebyck.com/wp-content/uploads/2019/06/19_CafeWebsite_Doodles_CONTACT.gif' width="90px"> </h2>
 <a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/laura-caicedo-341573215/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
