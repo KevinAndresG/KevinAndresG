@@ -1,6 +1,6 @@
 <div align='center'>
 <h1 align='center'> Hi Every Body < My name is Kevin Garcia| > </h1>
-  <h2> Software Engineer Student at Holberton School </h2>
+  <h2>A Front End Developer</h2>
   </div>
 <p align='center'>
 </p>
@@ -16,21 +16,21 @@
 
 <h2> About Me </h2>
   
--🔹 I’m currently stundyong at Holberton.
+-🔹 I’m very exited to know new people.
   
--🔹 I’m currently learning about Software programming.  
+-🔹 I’m always learning i can't stop gaining experience.  
 
--🔹 I’m looking to collaborate on Projects,Tech Articles. 
+-🔹 I’m looking to collaborate on Projects,Tech Articles etc. 
 
--🔹 Talk to me about C, Open Source, or any knowledge you want to share with me. 
+-🔹 Talk to me about JavaScript, TypeScript, React, Angular, Open Source, or any knowledge you want to share with me. 
 
-<h2> My Skills And Knowledges <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> My Skills And Knowledges
 <a href= https://github.com/KevinAndresG?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
 <a href= https://github.com/KevinAndresG?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/KevinAndresG?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 
 <h2> Contact me... <img src='https://cafebyck.com/wp-content/uploads/2019/06/19_CafeWebsite_Doodles_CONTACT.gif' width="90px"> </h2>
-<a href = 'https://www.linkedin.com/in/kevin-andres-garcia-velez-14a839214/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.linkedin.com/in/kevinandresg/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://twitter.com/KevinAndresG22'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://www.github.com/KevinAndresG'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
